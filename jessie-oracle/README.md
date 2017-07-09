@@ -1,2 +1,3 @@
 # Jessie-Oracle JDK 8
-Image for Oracle JDK 8 for the Raspberry Pi. This will pull whatever is latest within the Package Manager.
+DockerFile  for Oracle JDK 8 for the Raspberry Pi. This image will install the JDK 8 from the package manager.
+It will also install curl, to enable health check.
